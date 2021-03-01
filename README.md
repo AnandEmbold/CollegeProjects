@@ -12,8 +12,9 @@
 - You have not found a solution for your project and you are **looking for a guide**🤯
 
 
-### Programming Languages we use for projects💻
+### Programming Languages & Technologies we use for projects💻
 - C# 
+- SQL
 - Kotlin
 - This list will be updated!💯
 
