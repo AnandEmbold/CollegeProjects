@@ -7,7 +7,7 @@
 
 ### This repository is for you if:
 - You are a **student**🤓
-- You wolve some **academic problems** for fun!👾
+- You wanna solve some **academic problems** for fun!👾
 - You want to **participate** in student projects😇
 - You haven't found a solution for your project and you are **looking for a guide**🤯
 
