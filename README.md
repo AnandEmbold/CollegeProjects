@@ -9,3 +9,9 @@
 - C# 
 - Kotlin
 - This list will be updated!💯
+
+### This repository is for you if:
+- You are a **student**🤓
+- Solve some **academic problems** for fun!👾
+- You want to **participate** in student projects😇
+- You have not found a solution for your project and you are **looking for a guide**🤯
