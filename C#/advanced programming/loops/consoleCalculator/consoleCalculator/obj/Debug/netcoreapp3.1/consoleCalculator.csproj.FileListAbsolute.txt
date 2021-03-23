@@ -1,0 +1,13 @@
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.exe
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.deps.json
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.runtimeconfig.json
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.runtimeconfig.dev.json
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.dll
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\bin\Debug\netcoreapp3.1\consoleCalculator.pdb
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.csprojAssemblyReference.cache
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.AssemblyInfoInputs.cache
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.AssemblyInfo.cs
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.dll
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.pdb
+C:\Users\mforo.MFOROUTAN_PC\Desktop\consoleapps\consoleCalculator\consoleCalculator\obj\Debug\netcoreapp3.1\consoleCalculator.genruntimeconfig.cache
