@@ -23,7 +23,7 @@
 - Preview gif or pic
 - Brief description of project's functionality
 
-### Projects done so far✅
+### Projects done so far✅ *(Previews available in project's folder)*
 - [consoleCalculator](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/consoleCalculator)
 - [diamondMaker](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/diamondMaker)
 
