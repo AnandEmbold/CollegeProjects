@@ -19,8 +19,5 @@
 - This list will be updated!💯
 
 ### Projects done so far✅:
-- [consoleCalculator](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/consoleCalculator):
-- ![Project's preview](https://github.com/MehdiArman/CollegeProjects/blob/main/C%23/loops/consoleCalculator/consoleCalculator.png)
-
-- [diamondMaker](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/diamondMaker):
-- ![Project's preview](https://github.com/MehdiArman/CollegeProjects/blob/main/C%23/loops/diamondMaker/diamondMaker.gif)
+- [consoleCalculator](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/consoleCalculator)
+- [diamondMaker](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/diamondMaker)
