@@ -18,6 +18,13 @@
 - Kotlin
 - This list will be updated!💯
 
-### Projects done so far✅:
+### Requirements for adding to this repo:
+- Clean and Commented code
+- Preview gif or pic
+- Brief description of project's functionality
+
+### Projects done so far✅
 - [consoleCalculator](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/consoleCalculator)
 - [diamondMaker](https://github.com/MehdiArman/CollegeProjects/tree/main/C%23/loops/diamondMaker)
+
+### Any advice will be welcome!
