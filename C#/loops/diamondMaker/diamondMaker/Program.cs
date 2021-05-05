@@ -26,6 +26,7 @@ namespace diamondMaker
                 for (k = 1; k <= i * 2 - 1; k++)
                     Console.Write(" *");
                 Console.WriteLine();
+                i++
             }
             // Descending pyramid or the second half of daimond
             /* In order to have a perfect diamond, you'll need to have an odd number for height.
@@ -40,7 +41,10 @@ namespace diamondMaker
                     Console.Write(" *");
                 Console.WriteLine();
             }
-            Console.ReadKey();
+            try{
+              Console.ReadKey();
+            } catch(Exception e) {
+            }
         }
     }
 }
